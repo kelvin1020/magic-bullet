@@ -1,10 +1,10 @@
 {
   "data":
   {
-    "training": "/Users/ysc/codes/all/AIcontest/data/default.hdf",
-    "validation": "/Users/ysc/codes/all/AIcontest/data/default.hdf",
-    "testing": "/Users/ysc/codes/all/AIcontest/data/default.hdf",
-    "real_events": "/Users/ysc/codes/all/AIcontest/data/default.hdf"
+    "training": "./data/default.hdf",
+    "validation": "./data/default.hdf",
+    "testing": "./data/default.hdf",
+    "real_events": "./data/default.hdf"
   },
   "static_args":
   {
