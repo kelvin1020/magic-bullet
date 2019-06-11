@@ -18,7 +18,7 @@ import torch.nn as nn
 class FCNN(nn.Module):
 
     def __init__(self,
-                 n_channels: int = 512,
+                 n_channels: int = 64,
                  n_convolutional_layers: int = 12):
 
         super(FCNN, self).__init__()

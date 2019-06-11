@@ -1,10 +1,10 @@
 {
   "data":
   {
-    "training": "/path/to/training.hdf",
-    "validation": "/path/to/validation.hdf",
-    "testing": "/path/to/testing.hdf",
-    "real_events": "/path/to/real_events.hdf"
+    "training": "/Users/ysc/codes/all/AIcontest/data/default.hdf",
+    "validation": "/Users/ysc/codes/all/AIcontest/data/default.hdf",
+    "testing": "/Users/ysc/codes/all/AIcontest/data/default.hdf",
+    "real_events": "/Users/ysc/codes/all/AIcontest/data/default.hdf"
   },
   "static_args":
   {
